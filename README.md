@@ -14,7 +14,7 @@ To add college checklist in the database per college
 - Dashboard:
 Visualization on foster youth usage trends of the application
 
-Team Members:
+## Team Members:
 - Julian Knodt
 - Jon McIntosh
 - Siddharth MalkiReddy
@@ -27,3 +27,4 @@ Techonologies Used:
 - Redux
 - NodeJS
 - GraphQL
+- MongoDB
